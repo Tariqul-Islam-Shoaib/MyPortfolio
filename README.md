@@ -1,7 +1,8 @@
 # MyPortfolio
-Hi!
 
 👨‍💻 Md. Tariqul Islam Shoaib| CSE Student
+
+
 Hello! I'm Md. Tariqul Islam Shoaib, a Computer Science and Engineering (CSE) student with a passion for software development. I specialize in crafting efficient, scalable, and user-friendly solutions across various programming languages and frameworks.
 
 
