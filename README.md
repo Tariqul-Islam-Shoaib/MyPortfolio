@@ -7,11 +7,17 @@ Hello! I'm Md. Tariqul Islam Shoaib, a Computer Science and Engineering (CSE) st
 
 
 🚀 Skills & Expertise
+
 Languages: Java, Python, PHP, JavaScript
+
 Backend: Flask, Laravel, Node.js
+
 Frontend: React.js, HTML, CSS
+
 Databases: MongoDB, MySQL
+
 Version Control: Git & GitHub
+
 Other Tools: RESTful APIs, Docker, Linux
 
 
