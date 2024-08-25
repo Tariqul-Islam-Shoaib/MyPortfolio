@@ -2,8 +2,9 @@
 
 👨‍💻 Md. Tariqul Islam Shoaib || CSE Student
 
-                Hello! I'm Md. Tariqul Islam Shoaib, a Computer Science and Engineering (CSE) student with a passion for software development. 
-                I specialize in crafting efficient, scalable, and user-friendly solutions across various programming languages and frameworks.
+                Hello! I'm Md. Tariqul Islam Shoaib, a Computer Science and Engineering (CSE) student
+                with a passion for software development. I specialize in crafting efficient, scalable, 
+                and user-friendly solutions across various programming languages and frameworks.
 
 
 🚀 Skills & Expertise
@@ -22,6 +23,7 @@
 
 
 🌱 What I'm Working On
+
                 I'm currently expanding my knowledge in cloud computing and exploring microservices architecture. 
                 I am also developing full-stack web applications using modern frameworks like React.js and Node.js.
 
